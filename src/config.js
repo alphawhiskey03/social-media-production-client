@@ -1,4 +1,4 @@
-exports.API_URI = "http://localhost:3002/";
+exports.API_URI = "https://powerful-earth-29719.herokuapp.com/";
 
 exports.FIREBASE_CONFIG = {
   apiKey: "AIzaSyDhsvYDE6OPTGiU04DTSMlLDFu_s8fRkkI",
